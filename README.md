@@ -6,9 +6,9 @@ Welcome to my corner of the web! I'm a passionate Frontend Developer and expandi
 
 - 💻 **Work Experience:** Frontend Developer at lime.ai.
 - 🌐 **Web Development Technologies:**
-  - MongoDB, Express js, Angular js, Node js
-  - HTML, CSS, , Django
-  - JavaScript, jQuery
+  - MongoDB, Express js, Angular js, React Js, Node js
+  - HTML, CSS, Django
+  - JavaScript, jQuery, TypeScript
   - Bootstrap, Material UI
 
 - 🐍 **Programming Language:**
