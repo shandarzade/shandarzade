@@ -1,10 +1,10 @@
 # Hi, I'm Shandar Zade - Web Development Enthusiast! 👋
 
-Welcome to my corner of the web! I'm a passionate Frontend Developer and expanding my skills into the Backend as well, previously shaping the digital world at lime.ai. I have a robust skill set in a variety of web development technologies and programming languages. Let me give you a glimpse into my world.
+Welcome to my corner of the web! I'm a passionate web Developer. previously shaping the digital world at lime.ai. I have a robust skill set in a variety of web development technologies and programming languages. Let me give you a glimpse into my world.
 
 ## 🚀 About Me
 
-- 💻 **Work Experience:** Frontend Developer at lime.ai.
+- 💻 **Work Experience:** Software Developer at lime.ai.
 - 🌐 **Web Development Technologies:**
   - MongoDB, Express js, Angular js, React Js, Node js
   - HTML, CSS, Django
